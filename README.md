@@ -18,9 +18,14 @@
 황량한 눈물<br>
 무한한 강과 산에는 몇 도의 봄이 있다<br><br>
 
-
-今夜だけは桃と梅の香り<br>
-川の夕暮れを振り返る<br>
+今夜は桃と梅の香りだけ<br>
+川辺で夕日を振り返る<br>
 美少女、いつ会えるの？<br>
-暗い涙<br>
-無限の川や山には数度の春がある<br><br>
+こっそり泣く<br>
+何年、果てしない川と山?<br>
+
+Only peach and plum scent tonight<br>
+Looking back at the sunset by the river<br>
+Beautiful girl, when can we meet? <br>
+secretly cry<br>
+How many years, endless rivers and mountains?<br>
