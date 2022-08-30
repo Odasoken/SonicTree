@@ -3,9 +3,7 @@
 송나라 시 작성 도우미, 고주파 채우기 문장 생성에 도움<br>
 宋王朝の詩の充填アシスタント、高頻度の充填文の生成を支援
 <br>
- <img src="https://github.com/Odasoken/SonicTree/blob/master/demo.png" width="30%" height="30%">
- 
- <br>
+Test1：<br>
 惟有 今夜 桃李芳<br>
 江上黄昏一回首<br>
 佳人 千里 何时见<br>
@@ -24,8 +22,11 @@
 こっそり泣く<br>
 何年、果てしない川と山?<br>
 
-Only peach and plum scent tonight<br>
-Looking back at the sunset by the river<br>
-Beautiful girl, when can we meet? <br>
-Desolate tears<br>
-How many years, endless rivers and mountains?<br>
+Tonight, only the scent of peaches and plums<br>
+Looking back at the twilight on the river<br>
+Beautiful girl, when will we meet?<br>
+desolate tears<br>
+Endless rivers and mountains experienced how many springs<br><br>
+ <img src="https://github.com/Odasoken/SonicTree/blob/master/demo.png" width="30%" height="30%">
+ 
+ <br>
