@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import "IQKeyboardManager.h"
+//#import "IQKeyboardManager/IQKeyboardManager.h"
 
 @interface AppDelegate ()
 
@@ -17,9 +19,21 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    [[IQKeyboardManager sharedManager] setEnable:true];
+    [self registerPush];
     return YES;
 }
-
+- (void)registerPush
+    {
+        UILocalNotification *localNotification = [[UILocalNotification alloc] init];
+        localNotification.fireDate = [NSDate dateWithTimeIntervalSinceNow:5];
+        localNotification.alertBody = @"I am a LocalNotification!";
+        localNotification.alertAction = @"check";
+        localNotification.hasAction = YES;
+        localNotification.applicationIconBadgeNumber = 1;
+        
+        [[UIApplication sharedApplication] scheduleLocalNotification:localNotification];
+    }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
