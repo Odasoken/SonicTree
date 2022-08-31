@@ -28,7 +28,7 @@ Tonight, only the scent of peaches and plums<br>
 Looking back at the twilight on the river<br>
 Beautiful girl,thousand miles apart， when will we meet?<br>
 desolate tears<br>
-How many springs and autumns have the endless rivers and mountains experienced<br><br>
+The endless rivers and mountains，yet how many springs have passed through <br><br>
  <img src="https://github.com/Odasoken/SonicTree/blob/master/demo.png" width="30%" height="30%">
  
  <br>
